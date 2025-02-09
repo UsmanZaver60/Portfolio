@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff20ec03-ff9f-4a08-bef1-8caa4087a0d4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Dive Master.html" beforeDir="false" afterPath="$PROJECT_DIR$/Dive Master.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eat To Win.html" beforeDir="false" afterPath="$PROJECT_DIR$/Eat To Win.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Elastic.html" beforeDir="false" afterPath="$PROJECT_DIR$/Elastic.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Farm.html" beforeDir="false" afterPath="$PROJECT_DIR$/Farm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fill The Lot.html" beforeDir="false" afterPath="$PROJECT_DIR$/Fill The Lot.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Make Me Young.html" beforeDir="false" afterPath="$PROJECT_DIR$/Make Me Young.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Monster vs Warriors.html" beforeDir="false" afterPath="$PROJECT_DIR$/Monster vs Warriors.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nanny Rush.html" beforeDir="false" afterPath="$PROJECT_DIR$/Nanny Rush.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pet Care.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pet Care.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rug Master.html" beforeDir="false" afterPath="$PROJECT_DIR$/Rug Master.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prisonfrenzy.html" beforeDir="false" afterPath="$PROJECT_DIR$/prisonfrenzy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/schoolescape.html" beforeDir="false" afterPath="$PROJECT_DIR$/schoolescape.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,19 +27,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Adding-Games-2024-2025&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.about.html.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Adding-Games-2024-2025",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RunManager">
+    <configuration name="about.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Portfolio/about.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.about.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,6 +62,9 @@
       <workItem from="1738495421081" duration="4443000" />
       <workItem from="1738509177627" duration="5561000" />
       <workItem from="1738767032296" duration="5710000" />
+      <workItem from="1738775184518" duration="7000" />
+      <workItem from="1739035676198" duration="968000" />
+      <workItem from="1739118717201" duration="1256000" />
     </task>
     <servers />
   </component>
